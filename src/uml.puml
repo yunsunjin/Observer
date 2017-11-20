@@ -1,0 +1,15 @@
+@startuml
+
+package 抽象クラス {
+
+
+
+
+}
+
+package 具体クラス
+
+
+
+
+@enduml
